@@ -1,0 +1,15 @@
+@mixin darkMode {
+  --bg: #1d1d1d;
+  --text-color: #fff;
+  --card-bg: #292929;
+  --container-bg: #212529;
+  --shadow: #ffd800;
+}
+
+@mixin whiteMode {
+  --bg: #fff;
+  --text-color: #000;
+  --card-bg: #e3e4e8;
+  --container-bg: #fff;
+  --shadow: #551a8b;
+}
