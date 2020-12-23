@@ -37,7 +37,10 @@ The idea is to include the right mixin based on the current Theme (Dark/Light)
 - Rxjs.
 
 ## Run
+> - ``` npm install ```
+> - ``` npm run dev ```
+> - The app will available on http://localhost:1234
 
-``` npm install ```
-``` npm run dev ```
-The app will available on http://localhost:1234
+
+
+
