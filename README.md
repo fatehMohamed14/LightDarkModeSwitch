@@ -1,6 +1,8 @@
 # Easy Theme Switcher
 Themes switcher using sass mixins and a BehaviorSubject Signleton Service for toggling.
 
+![Screenshot](theme.gif)
+
 The idea is to include the right mixin based on the current Theme (Dark/Light)
 
 ```
