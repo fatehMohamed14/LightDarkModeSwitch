@@ -1,5 +1,5 @@
 # Easy Theme Switcher
-Themes switcher using sass mixins and a BehaviorSubject Service for toggling.
+Themes switcher using sass mixins and a BehaviorSubject Signleton Service for toggling.
 
 The idea is to include the right mixin based on the current Theme (Dark/Light)
 
